@@ -1,7 +1,7 @@
 # 🚗 Uber Ride Analytics Dashboard — Tableau | 2024
 
 <p align="center">
-  <img src="Uber_logo.png" alt="Uber Logo" width="120"/>
+  <img src="Uber logo.png" alt="Uber Logo" width="120"/>
 </p>
 
 <p align="center">
