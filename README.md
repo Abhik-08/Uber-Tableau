@@ -23,7 +23,7 @@ An interactive **Tableau dashboard** built on top of a comprehensive Uber ride-s
 
 ## 📊 Dashboard Preview
 
-![Uber Analytics Dashboard](1774687064092_image.png)
+![Uber Analytics Dashboard](Uber_preview.png)
 
 ---
 
