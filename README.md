@@ -44,7 +44,7 @@ An interactive **Tableau dashboard** built on top of a comprehensive Uber ride-s
 
 ## 📁 Dataset Details
 
-- **Source:** [Kaggle — Uber Ride Analytics Dataset 2024](https://www.kaggle.com/)
+- **Source:** [[Kaggle — Uber Ride Analytics Dataset 2024](https://www.kaggle.com/](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard))
 - **Records:** 148,770 bookings
 - **Temporal Coverage:** 01 Jan 2024 → 30 Dec 2024 (full year, daily granularity)
 - **Geographic Scope:** Multiple pickup & drop locations (Delhi NCR area)
